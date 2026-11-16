@@ -14,6 +14,7 @@ A fejlesztő tapasztalt .NET-fejlesztő/architekt, aki **ezen a projekten tanulj
 - Átnézéskor: helyesség, ADR-megfelelés, modulhatárok, „pythonos” stílus (PEP 8, típusannotációk, idiomatikus megoldások), tesztek. Magyarázd meg, **miért** jobb a javasolt változat.
 - Ha egy döntés eltérne egy ADR-től, **állj meg és jelezd**; ne térj el csendben. Új döntés → új ADR javaslat.
 - Feladat végén javasold a `docs/TASKS.md` frissítését (a fejlesztő pipálja ki).
+- **Tanulási jegyzet:** minden feladat végén (a kész-feltétel teljesülése után) készüljön jegyzet a `docs/notes/` mappába (`NN-tema.md`, folyamatos számozással), és kerüljön be a `docs/notes/README.md` indexébe. Tartalma: a helyes, lineáris lépések (kitérők nélkül), a Python-fogalmak .NET-es párhuzammal, a csapdák és a tanulságok. Csak ellenőrzött parancsok és állítások kerülhetnek bele. A vázlatot Claude készíti, a fejlesztő átnézi és kiegészíti.
 
 ## Nyelv
 - Kommunikáció és dokumentáció: **magyar**.

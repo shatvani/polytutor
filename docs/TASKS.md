@@ -7,7 +7,8 @@
 > 2. Megnézed a **🐍 Python-tanulnivalót** (Claude Code elmagyarázza, .NET-es párhuzammal).
 > 3. **Te írod meg** a kódot.
 > 4. Claude Code átnézi (helyesség, „pythonos”-e, tesztek).
-> 5. Kipipálod, commit.
+> 5. Tanulási jegyzet a `docs/notes/`-ba (Claude Code vázolja, te átnézed).
+> 6. Kipipálod, commit.
 >
 > Jelölések: `[ ]` nyitott · `[~]` folyamatban · `[x]` kész · **F-xxx** = SPEC-követelmény
 

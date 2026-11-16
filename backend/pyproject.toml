@@ -1,0 +1,16 @@
+[project]
+name = "polytutor"
+version = "0.1.0"
+description = "PolyTutor backend – personal AI language tutor"
+readme = "README.md"
+authors = [
+    { name = "shatvani", email = "hatvani.sandor@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "mypy>=2.4.1",
+    "ruff>=0.17.5",
+]
