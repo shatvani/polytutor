@@ -1,0 +1,35 @@
+# --- Titkok és helyi konfiguráció ---
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+
+# --- Python (backend) ---
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# --- Eszközök gyorsítótárai ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Alkalmazásadatok (feltöltött tananyag, DB) ---
+storage/
+data/
+*.dump
+
+# --- IDE ---
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# --- OS ---
+Thumbs.db
+desktop.ini
+.DS_Store
