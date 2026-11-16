@@ -1,0 +1,3 @@
+# Always LF in the working tree, regardless of the machine's core.autocrlf.
+# Prevents CRLF issues in Linux containers (shell scripts, .env values).
+* text=auto eol=lf

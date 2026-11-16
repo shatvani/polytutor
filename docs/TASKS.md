@@ -16,12 +16,12 @@
 
 ## 0. fázis – Környezet és projektváz
 
-- [ ] **T0.1 Python-fejlesztői környezet**
+- [x] **T0.1 Python-fejlesztői környezet**
   - Python 3.12+, **uv**, VS Code / PyCharm + Python-kiegészítők, ruff, mypy.
   - 🐍 virtuális környezet (≈ projektszintű SDK), `pyproject.toml` (≈ `.csproj`), `uv add`, `uv run`.
   - ✅ Kész, ha: `uv run python -c "print('ok')"` fut.
 
-- [ ] **T0.2 Repo-szerkezet**
+- [x] **T0.2 Repo-szerkezet**
   - `git init`, első commit a meglévő dokumentációval.
   - `backend/`, `mobile/` (később), `docs/`, `docker/`; `.gitignore`, `.env.example`, `README.md`.
   - Backend: `app/core/`, `app/modules/`, `tests/`, `prompts/` (ADR-0002).
